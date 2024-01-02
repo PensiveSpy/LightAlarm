@@ -21,6 +21,7 @@ Observe the Microbit's response to changes in ambient light.
 Feel free to customize the light threshold, melody, or visual cues to suit your preferences.
 
 Code
+
 The project code is written in MicroPython and can be found in the attached script. Feel free to explore, modify, and contribute to enhance the project!
 
 Contribution
