@@ -1,20 +1,24 @@
 # LightAlarm
 
-Overview
+#Overview
+
 This Microbit project utilizes the onboard light sensor to create an interactive music and display experience. When the ambient light level surpasses a certain threshold (in this case, 100), the Microbit plays a delightful "POWER_UP" melody and displays a sad face. Conversely, when the light level is below the threshold, it showcases a happy face. This project combines both the auditory and visual aspects to engage users based on their surroundings.
 
-Features
+#Features
+
 Light sensor integration for ambient light detection
 Musical feedback with the "POWER_UP" melody
 Visual feedback with happy and sad face displays
 
 
-Requirements
+#Requirements
+
 Python
 Microbit
 MicroPython
 
-Usage
+#Usage
+
 Upload the provided MicroPython script to your Microbit using the Microbit Python Editor.
 Ensure the Microbit is powered on and has a functional battery.
 Observe the Microbit's response to changes in ambient light.
