@@ -24,9 +24,10 @@ Ensure the Microbit is powered on and has a functional battery.
 Observe the Microbit's response to changes in ambient light.
 Feel free to customize the light threshold, melody, or visual cues to suit your preferences.
 
-Code
+#Code
 
 The project code is written in MicroPython and can be found in the attached script. Feel free to explore, modify, and contribute to enhance the project!
 
-Contribution
+#Contribution
+
 Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or create a pull request.
